@@ -252,3 +252,4 @@ export default function Dashboard() {
     </div>
   );
 }
+// Frontend dashboard ready for backend integration
