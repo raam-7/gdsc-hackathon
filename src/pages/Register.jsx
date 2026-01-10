@@ -70,7 +70,7 @@ export default function Registration() {
               <span className="text-[#4285F4] text-6xl font-serif">{"}"}</span>
             </div>
             
-            <h3 className="text-2xl font-bold text-gray-800 mt-6">Registration Form</h3>
+            <h3 className="text-2xl font-bold text-gray-800 mt-6"> Team Registration Form</h3>
             <p className="text-gray-500 text-sm mt-1">Fill out the form carefully</p>
           </div>
 
