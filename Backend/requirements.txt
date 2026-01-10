@@ -1,7 +1,10 @@
 # Python dependencies
 fastapi
-uvicorn[standard]
+uvicorn
 motor
 dnspython
+python-jose[cryptography]
+passlib[bcrypt]
+python-dotenv
 pydantic[email]
 python-multipart
